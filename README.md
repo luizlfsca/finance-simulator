@@ -34,7 +34,7 @@ Um aplicativo web interativo que simula cenários de quitação de dívidas, per
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/SEU_USUARIO/finance-simulator.git
+git clone https://github.com/luizlfsca/finance-simulator.git
 cd finance-simulator
 ```
 
@@ -112,11 +112,11 @@ http://localhost:8501
 ## 👨‍💻 Autor
 
 **Luiz Felipe**  
-Analista de Experiência do Cliente em transição para Dados  
+Analista de Experiência do Cliente em transição para Análise de Dados  
 
-📧 [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-💼 [Portfólio](https://github.com/SEU_USUARIO)
+📧 [lzfelipe.almeida@outlook.br](mailto:lzfelipe.almeida@outlook.br)  
+🔗 [LinkedIn](https://www.linkedin.com/in/luizfelipe-analista)  
+💼 [GitHub](https://github.com/luizlfsca)
 
 ---
 
